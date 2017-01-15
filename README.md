@@ -1,2 +1,2 @@
-# altoastral
+# Alto Astral
 Plataforma Digital Alto Astral
